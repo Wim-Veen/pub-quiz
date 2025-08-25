@@ -1,3 +1,2 @@
-#ignore
-*.log
-*.out
+node_modules/
+~*
